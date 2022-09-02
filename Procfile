@@ -1,0 +1,1 @@
+web: gunicorn fixgolll.wsgi --log-file -
